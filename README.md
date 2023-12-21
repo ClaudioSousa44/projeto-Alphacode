@@ -54,7 +54,7 @@ const DBNAME = 'db_alphacode';
 - 5º Volte para pasta "front-end-alphacode" e rode o index.html localmente.
 
 ## Vídeo da aplicação
-[Clique aqui](https://claudiosousa44.github.io/projeto-alphacode) para ver o vídeo.
+[Clique aqui]([https://claudiosousa44.github.io/projeto-alphacode](https://drive.google.com/file/d/1qZrDj1c7InBHTuZJHVnXTzQVE-C7zWvv/view?usp=drive_link)https://drive.google.com/file/d/1qZrDj1c7InBHTuZJHVnXTzQVE-C7zWvv/view?usp=drive_link) para ver o vídeo.
 
 
 
