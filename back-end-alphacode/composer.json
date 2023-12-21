@@ -1,0 +1,20 @@
+{
+    "name": "cauhs/back-end-alphacode",
+    "autoload": {
+        "psr-4": {
+            "Cauhs\\xampp\\htdocs\\back-end-alphacode\\": "src/"
+        }
+    },
+    "files": [
+        
+    ],
+
+    "authors": [
+        {
+            "name": "Claudio Sousa"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.*"
+    }
+}
