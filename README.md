@@ -1,7 +1,5 @@
 ![](./front-end-alphacode/images/logo_rodape_alphacode.png)
 
-[Clique aqui](https://claudiosousa44.github.io/projeto-alphacode) para acessar o projeto.
-
 ---
 ## Sobre
 Este projeto é uma avaliação para teste de conhecimentos para uma vaga de emprego na empresa Alphacode.
