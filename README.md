@@ -14,6 +14,7 @@ Este projeto é uma avaliação para teste de conhecimentos para uma vaga de emp
 - XAMPP
 - Postman
 - Composer
+- JQuery
 
 
 # Banco de dados
