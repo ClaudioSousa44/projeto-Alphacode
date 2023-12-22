@@ -1,12 +1,12 @@
 export const getUsuarios = async () => {
-  const url = `http://localhost/back-end-alphacode/index.php/v1/usuarios`;
+  const url = `http://localhost/projeto-alphacode/back-end-alphacode/index.php/v1/usuarios`;
   const response = await fetch(url);
   const dado = await response.json();
   return dado;
 };
 
 export function deleteAluno(id) {
-  const url = `http://localhost/back-end-alphacode/index.php/v1/usuarios/${id}`;
+  const url = `http://localhost/projeto-alphacode/back-end-alphacode/index.php/v1/usuarios/${id}`;
   const options = {
     method: "DELETE",
   };
@@ -15,7 +15,8 @@ export function deleteAluno(id) {
 }
 
 export const createUsuario = async ( usuario ) => {
-    const url = "http://localhost/back-end-alphacode/index.php/v1/usuarios";
+    const url =
+      "http://localhost/projeto-alphacode/back-end-alphacode/index.php/v1/usuarios";
     const options = {
       headers: {
         "Content-Type": "application/json",
@@ -42,7 +43,7 @@ export const createUsuario = async ( usuario ) => {
   }
 
   export const updateUsuario = async (id, usuario) => {
-    const url = `http://localhost/back-end-alphacode/index.php/v1/usuarios/${id}`;
+    const url = `http://localhost/projeto-alphacode/back-end-alphacode/index.php/v1/usuarios/${id}`;
     const options = {
       headers: {
         "Content-Type": "application/json",
