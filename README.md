@@ -49,7 +49,8 @@ const DBUSER = 'root';
 const DBPASSWORD = 'bcd127';
 const DBNAME = 'db_alphacode';
 ```
-- 5º Volte para pasta "front-end-alphacode" e rode o index.html localmente.
+- 5º Abra o XAMPP e clique em "start" no Apache.
+- 6º Volte para pasta "front-end-alphacode" e rode o index.html localmente.
 
 ## Vídeo da aplicação
 [Clique aqui](https://drive.google.com/file/d/1qZrDj1c7InBHTuZJHVnXTzQVE-C7zWvv/view?usp=drive_link) para ver o vídeo.
